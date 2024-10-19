@@ -49,7 +49,7 @@ nota3 = int(input("Digite uma nota"))
 
 nota4 = int(input("Digite uma nota"))
 
-#print(nota1 + nota2 + nota3 + nota4 /4)
+print(nota1 + nota2 + nota3 + nota4 /4)
 #Desafio: Crie um algorimo que peça ao usuário o email e a senha. Caso o usuário e a senha estejam corretos imprima no terminal:
 #"Acesso garantido", caso contrário imprima "Acesso negado"; Pre-defina a senha e e-mail corretos e compare com as entradas obtidas através do input.
 usuario = input("Digite seu usuario :")
