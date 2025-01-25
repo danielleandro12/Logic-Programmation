@@ -20,26 +20,26 @@ else:
      print("O numero 1 e menor")
  else :
      print("O numero 2 e menor")    
-# 08 - Crie um algoritmo em que o usuário informe seu gênero, sua altura e seu peso. Após, calcule e exiba na tela (terminal) o IMC do usuário.
+# 03 - Crie um algoritmo em que o usuário informe seu gênero, sua altura e seu peso. Após, calcule e exiba na tela (terminal) o IMC do usuário.
 genero = input("Informe seu genero:")
 altura =int(input("Digite sua altura"))
 peso = int(input("Digite seu peso"))
 imc = int(input(altura + peso**2))
 
-# 08 - Crie um algoritmo em que o usuário informe um número qualquer. Após, informe se esse número é par ou ímpar.
+# 04 - Crie um algoritmo em que o usuário informe um número qualquer. Após, informe se esse número é par ou ímpar.
 numero =int(input("Digite um numero"))
 if numero %2 == 0 :
    print("O numero e par")
 else:
 print("O numero e impar")
 
-# 10 - Crie um algoritmo em que o usuário informe um número qualquer. Após, informe se esse número é múltiplo de 2.
+# 05 - Crie um algoritmo em que o usuário informe um número qualquer. Após, informe se esse número é múltiplo de 2.
 #Refazer esse exercício pois o código não está funcionando!!!
 numero =int(input("Digite um numero"))
 if numero %2 ==2 :
    print ("é multiplo")
 else:
    print("Não é multiplo")   
-# 11 - Crie um algoritmo em que o usuário informe um número qualquer. Após, informe se esse número é múltiplo de 3.
+# 06 - Crie um algoritmo em que o usuário informe um número qualquer. Após, informe se esse número é múltiplo de 3.
 
-# 12 - Crie um algoritmo em que o usuário informe um número qualquer. Após, informe se esse número é múltiplo de 5.
+# 07 - Crie um algoritmo em que o usuário informe um número qualquer. Após, informe se esse número é múltiplo de 5.
